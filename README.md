@@ -15,8 +15,8 @@ The project highlights the practical use of the **Controller Area Network (CAN)*
 ## Repository Structure
 The repository contains two separate folders, each representing the project for one of the STM32 boards. These folders can be directly opened and modified in **STM32CubeIDE**:
 
-- **`STM32F407G_Sender`**: Contains the project for the **STM32F407G Discovery Board**, which reads the potentiometer values and transmits them over CAN.
-- **`STM32F446RE_Receiver`**: Contains the project for the **STM32F446RE Nucleo Board**, which receives the CAN messages and controls the LED based on the received values.
+- **`CAN_Sender`**: Contains the project for the **STM32F407G Discovery Board**, which reads the potentiometer values and transmits them over CAN.
+- **`CAN_Receiver`**: Contains the project for the **STM32F446RE Nucleo Board**, which receives the CAN messages and controls the LED based on the received values.
 
 Each folder includes:
 - CubeIDE project files (`.project`, `.cproject`, etc.)
