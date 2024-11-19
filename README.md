@@ -44,8 +44,8 @@ Each folder includes:
 ---
 
 ## Software Requirements
-- [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html)
-- [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+- [STM32CubeMX](https://www.st.com/content/st_com/en/stm32cubemx.html)
+- [STM32CubeIDE](https://www.st.com/content/st_com/en/stm32cubeide.html)
 
 ---
 
