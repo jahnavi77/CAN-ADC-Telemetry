@@ -51,7 +51,6 @@ The project focuses on establishing two-way communication between two STM32 boar
 1. Clone this repository:
 ```bash
    git clone https://github.com/WassimHedfi/CAN_Protocol_STM32f446re_V_STM32f407G
-   cd can-bus-stm32
 ```
 
 2. Connect the hardware:
