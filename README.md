@@ -80,5 +80,5 @@ Each folder includes:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/username/CAN-Bus-STM32.git
-   cd CAN-Bus-STM32
+   git https://github.com/WassimHedfi/CAN_Protocol_STM32f446re_V_STM32f407G.git
+   cd CAN_Protocol_STM32f446re_V_STM32f407G
