@@ -86,10 +86,4 @@ Each project folder includes:
 - Tie together CAN High (CANH) and CAN Low (CANL).  
 - Place 120 Ω termination resistors at both ends of the CAN bus.  
 
----
 
-## 🚀 Usage
-1. Clone your repo:
-   ```bash
-   git clone https://github.com/jahnavi77/CAN-ADC-Telemetry.git
-   cd CAN-ADC-Telemetry
